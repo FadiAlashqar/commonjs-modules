@@ -14,3 +14,10 @@ const myHobby = hobby('palestra', 'gaming', 'cinema');
 
 console.log(myHobby);
 
+// importiamo la terza funzione:
+
+const nameHobby = require('./modules/people.js');
+
+const myFunction = nameHobby();
+
+console.log(myFunction);
