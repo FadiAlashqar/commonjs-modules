@@ -13,3 +13,4 @@ const hobby = require('./modules/hobbies.js');
 const myHobby = hobby('palestra', 'gaming', 'cinema');
 
 console.log(myHobby);
+
