@@ -1,9 +1,9 @@
-// inizializzo una variabile:
-let hobbyArray = [];
 
 // definisco la funzione:
 function hobby(hobbyOne, hobbyTwo, hobbyThree) {
     
+    let hobbyArray = [];
+
     hobbyArray.push(hobbyOne, hobbyTwo, hobbyThree)
     
     return hobbyArray;
